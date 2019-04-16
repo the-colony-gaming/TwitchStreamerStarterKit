@@ -6,10 +6,10 @@ Start kit for Twitch Streamers who are putting their setup, channel, and other s
 Image | Name | Dimensions | File
 --- | --- | --- | ---
 ![ProfilePictureThumbnail](Image_Templates/TCG_TwitchProfilePicture_Thumbnail.jpg) | Profile Photo | 256 x 256 px | TCG_TwitchProfilePicture ( [PSD](Image_Templates/TCG_TwitchProfilePicture.psd) [PNG](Image_Templates/TCG_TwitchProfilePicture.png) )
-![ProfilePictureThumbnail](Image_Templates/TCG_TwitchProfileBannerTemplate_Thumbnail.jpg) | Profile Banner | 1200 x 480 px | TCG_TwitchProfileBannerTemplate ( [PSD](Image_Templates/TCG_TwitchProfileBannerTemplate.psd) [PNG](Image_Templates/TCG_TwitchProfileBannerTemplate.png) )
-![ProfilePictureThumbnail](Image_Templates/TCG_TwitchPanelTemplate_Thumbnail.jpg) | Info Panels | 320 x 300 px | TCG_TwitchPanelTemplate ( [PSD](Image_Templates/TCG_TwitchPanelTemplate.psd) [PNG](Image_Templates/TCG_TwitchPanelTemplate.png) )
-![ProfilePictureThumbnail](Image_Templates/TCG_TwitchProfilePicture_Thumbnail.jpg) | Video Player Banner | 1920 x 1080 px | 
-![ProfilePictureThumbnail](Image_Templates/TCG_TwitchProfilePicture_Thumbnail.jpg) | Video Thumbnail | 1280 x 720 px | 
+![ProfileBannerThumbnail](Image_Templates/TCG_TwitchProfileBannerTemplate_Thumbnail.jpg) | Profile Banner | 1200 x 480 px | TCG_TwitchProfileBannerTemplate ( [PSD](Image_Templates/TCG_TwitchProfileBannerTemplate.psd) [PNG](Image_Templates/TCG_TwitchProfileBannerTemplate.png) )
+![TwitchPanelThumbnail](Image_Templates/TCG_TwitchPanelTemplate_Thumbnail.jpg) | Info Panels | 320 x 300 px | TCG_TwitchPanelTemplate ( [PSD](Image_Templates/TCG_TwitchPanelTemplate.psd) [PNG](Image_Templates/TCG_TwitchPanelTemplate.png) )
+![VideoOfflineThumbnail](Image_Templates/TCG_TwitchVideoOfflineTemplate_Thumbnail.jpg) | Video Player Banner | 1920 x 1080 px | TCG_TwitchVideoOfflineTemplate ( [PSD](Image_Templates/TCG_TwitchVideoOfflineTemplate.psd) [PNG](Image_Templates/TCG_TwitchVideoOfflineTemplate.png) ) 
+![VideoCoverThumbnail](Image_Templates/TCG_TwitchVideoCoverTemplate_Thumbnail.jpg) | Video Thumbnail | 1280 x 720 px | TCG_TwitchVideoOfflineTemplate ( [PSD](Image_Templates/TCG_TwitchVideoCoverTemplate.psd) [PNG](Image_Templates/TCG_TwitchVideoCoverTemplate.png) ) 
 
 ---
 ## CHANGE LOG
