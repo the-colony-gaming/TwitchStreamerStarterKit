@@ -29,8 +29,8 @@ Image | Name | Dimensions | File
 ## STREAM SAMPLES
 Image | Name | Description | File
 --- | --- | --- | ---
-![TCG_StreamStartingSoon_FullThumbnail](Stream Scenes/Starting Soon/StartingStreamSoon_FullThumbnail.psd) | Stream Starting Soon Sample | Free to use scene image at the start of your stream, just add your own social links | TCG_StreamStartingSoon_Full ( [PSD](Stream Scenes/Starting Soon/StartingStreamSoon_Full.psd) [JPG](Stream Scenes/Starting Soon/StartingStreamSoon_Full.jpg) )
-![TCG_StreamStartingSoon_TextThumbnail](Stream Scenes/Starting Soon/StartingStreamSoon_TextThumbnail.psd) | Stream Starting Soon Text | Free to use scene text to layer how you want. | TCG_StreamStartingSoon_Text ( [PSD](Stream Scenes/Starting Soon/StartingStreamSoon_Text.psd) [PNG](Stream Scenes/Starting Soon/StartingStreamSoon_Text.png) )
+![TCG_StreamStartingSoon_FullThumbnail](StreamScenes/StartingSoon/StartingStreamSoon_FullThumbnail.jpg) | Stream Starting Soon Sample | Free to use scene image at the start of your stream, just add your own social links | TCG_StreamStartingSoon_Full ( [PSD](StreamScenes/StartingSoon/StartingStreamSoon_Full.psd) [JPG](StreamScenes/StartingSoon/StartingStreamSoon_Full.jpg) )
+![TCG_StreamStartingSoon_TextThumbnail](StreamScenes/StartingSoon/StartingStreamSoon_TextThumbnail.png) | Stream Starting Soon Text | Free to use scene text to layer how you want. | TCG_StreamStartingSoon_Text ( [PSD](StreamScenes/StartingSoon/StartingStreamSoon_Text.psd) [PNG](StreamScenes/StartingSoon/StartingStreamSoon_Text.png) )
 
 ---
 ## CHANGE LOG
