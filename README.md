@@ -26,8 +26,15 @@ Image | Name | Dimensions | File
 ![VideoOfflineThumbnail](Image_Templates/TCG_TwitchVideoOfflineTemplate_Thumbnail.jpg) | Video Player Banner | 1920 x 1080 px | TCG_TwitchVideoOfflineTemplate ( [PSD](Image_Templates/TCG_TwitchVideoOfflineTemplate.psd) [PNG](Image_Templates/TCG_TwitchVideoOfflineTemplate.png) ) 
 ![VideoCoverThumbnail](Image_Templates/TCG_TwitchVideoCoverTemplate_Thumbnail.jpg) | Video Thumbnail | 1280 x 720 px | TCG_TwitchVideoOfflineTemplate ( [PSD](Image_Templates/TCG_TwitchVideoCoverTemplate.psd) [PNG](Image_Templates/TCG_TwitchVideoCoverTemplate.png) ) 
 
+## STREAM SAMPLES
+Image | Name | Description | File
+--- | --- | --- | ---
+![TCG_StreamStartingSoon_FullThumbnail](Stream Scenes/Starting Soon/StartingStreamSoon_FullThumbnail.psd) | Stream Starting Soon Sample | Free to use scene image at the start of your stream, just add your own social links | TCG_StreamStartingSoon_Full ( [PSD](Stream Scenes/Starting Soon/StartingStreamSoon_Full.psd) [JPG](Stream Scenes/Starting Soon/StartingStreamSoon_Full.jpg) )
+![TCG_StreamStartingSoon_TextThumbnail](Stream Scenes/Starting Soon/StartingStreamSoon_TextThumbnail.psd) | Stream Starting Soon Text | Free to use scene text to layer how you want. | TCG_StreamStartingSoon_Text ( [PSD](Stream Scenes/Starting Soon/StartingStreamSoon_Text.psd) [PNG](Stream Scenes/Starting Soon/StartingStreamSoon_Text.png) )
+
 ---
 ## CHANGE LOG
+###### 05/25/2019 - GeekTekRob - Added sample 'Stream Starting Soon' graphic and just text with PSD file for use.
 ###### 04/16/2019 - GeekTekRob - Twitch Template Thumbnails, Beginner & Software Links, and files to support.
 ###### 04/15/2019 - GeekTekRob - Updated Twitch Image Sizes and added template image files
 ###### 04/15/2019 - GeekTekRob - Initial Build of repo
