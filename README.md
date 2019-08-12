@@ -26,14 +26,21 @@ Image | Name | Dimensions | File
 ![VideoOfflineThumbnail](Image_Templates/TCG_TwitchVideoOfflineTemplate_Thumbnail.jpg) | Video Player Banner | 1920 x 1080 px | TCG_TwitchVideoOfflineTemplate ( [PSD](Image_Templates/TCG_TwitchVideoOfflineTemplate.psd) [PNG](Image_Templates/TCG_TwitchVideoOfflineTemplate.png) ) 
 ![VideoCoverThumbnail](Image_Templates/TCG_TwitchVideoCoverTemplate_Thumbnail.jpg) | Video Thumbnail | 1280 x 720 px | TCG_TwitchVideoOfflineTemplate ( [PSD](Image_Templates/TCG_TwitchVideoCoverTemplate.psd) [PNG](Image_Templates/TCG_TwitchVideoCoverTemplate.png) ) 
 
-## STREAM SAMPLES
+## STREAM SCENE SAMPLES
 Image | Name | Description | File
 --- | --- | --- | ---
 ![TCG_StreamStartingSoon_FullThumbnail](StreamScenes/StartingSoon/StartingStreamSoon_FullThumbnail.jpg) | Stream Starting Soon Sample | Free to use scene image at the start of your stream, just add your own social links | TCG_StreamStartingSoon_Full ( [PSD](StreamScenes/StartingSoon/StartingStreamSoon_Full.psd) [JPG](StreamScenes/StartingSoon/StartingStreamSoon_Full.jpg) )
 ![TCG_StreamStartingSoon_TextThumbnail](StreamScenes/StartingSoon/StartingStreamSoon_TextThumbnail.png) | Stream Starting Soon Text | Free to use scene text to layer how you want. | TCG_StreamStartingSoon_Text ( [PSD](StreamScenes/StartingSoon/StartingStreamSoon_Text.psd) [PNG](StreamScenes/StartingSoon/StartingStreamSoon_Text.png) )
 
+## SL/OBS TRANSITION SAMPLES
+Image | Name | Description | File
+--- | --- | --- | ---
+![Blast_Transition](Transitions/BlastTransition_Thumbnail.jpg) | Blast Transition | Free to use transition of a light blast for your stream | Blast_Transition ( [WebM](Transitions/BlastTransition.webm) )
+![Flame_Transition](Transitions/FlameTransition_Thumbnail.jpg) | Flame Transition | Free to use transition of a flame for your stream | Flame_Transition ( [WebM](Transitions/FlameTransition.webm) )
+
 ---
 ## CHANGE LOG
+###### 08/11/2019 - GeekTekRob - Added sample SL/OBS transitions to be freely used by streamers.
 ###### 05/25/2019 - GeekTekRob - Added sample 'Stream Starting Soon' graphic and just text with PSD file for use.
 ###### 04/16/2019 - GeekTekRob - Twitch Template Thumbnails, Beginner & Software Links, and files to support.
 ###### 04/15/2019 - GeekTekRob - Updated Twitch Image Sizes and added template image files
